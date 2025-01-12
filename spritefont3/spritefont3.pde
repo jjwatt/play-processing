@@ -66,7 +66,7 @@ void draw() {
   renderText("HELLO WORLD", 100, 50);
   renderText("THANKS FOR ALL THE", 0, 100);
   renderText("FISH", 0, 150);
-  renderText("lCONSm", 100, 200+32);
+  renderText("lJESm", 100, 200+32);
   //renderText("m", 100+(32*7), 200+32);
   image(pig_sp, 100 + (32*6), 200+32);
   //for (int i = 0; i < 15; i++) {
